@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es6", "dom"],
+    "outDir": "./build/main",
+    "strict": true,
+    "preserveConstEnums": true,
+    "noImplicitAny": false
+  },
+
+  "include": [
+    "./src"
+  ]
+}
